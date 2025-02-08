@@ -1,7 +1,6 @@
 ---
-title: "Sample Presentation"
-author: "Your Name"
-date: "`r Sys.Date()`"
+title: "HOW IMMERSIVE TECHNOLOGY IMPACTS CUSTOMER ENGAGEMENT IN REAL ESTATE"
+author: "MAIRI GKALIANIDOU"
 format:
   revealjs:
     theme: simple
@@ -10,29 +9,89 @@ format:
     toc: true
 ---
 
-## Welcome to the Presentation
+## Introduction to Immersive Technology
 
-- This is a sample slide
-- You can add bullet points
-- Or any other content
+🔍 What is Immersive Technology?
 
----
+🕶️ Virtual Reality (VR): Fully digital environments for interaction
 
-## Slide with Code
+📱 Augmented Reality (AR): Digital overlays on the real world
 
-```{r}
-plot(cars)
-```
+🏗️ Transforming industries, including real estate
 
----
+## Immersive Technology in Real Estate
 
-## Slide with an Image
+🏠 How Immersive Tech is Used in Real Estate
 
-![Quarto Logo](https://quarto.org/docs/images/quarto.png)
+🕶️ VR: 360° property tours, virtual staging, remote viewing
 
+📱 AR: Interactive overlays, property previews, real-time mapping
+
+## Increased Customer Engagement
+
+
+📈 How Immersive Technology Boosts Engagement
+
+👀 Enhanced Visual Experience: Explore properties interactively
+
+🎨 Personalized Interactions: Try different designs/furniture
+
+⏳ Convenience: Saves time, allows remote visits
+
+## Benefits for Real Estate Companies
+
+🏢 Key Benefits for Real Estate Firms
+
+🌍 Broader Reach: Attracts global buyers
+
+💰 Higher Conversion Rates: Faster decision-making
+
+🚀 Competitive Advantage: Tech-driven experiences stand out
+
+
+## Benefits for Customers
+
+👨 Customer Benefits of Immersive Technology
+
+🏡 Interactive Viewing: Explore homes in 360°
+
+✨ Instant Visualization: See renovations before buying
+
+🕒 Flexibility: View properties anytime, anywhere
+
+## Challenges and Barriers
+
+⚠️ Challenges in Adopting Immersive Technology
+
+💲 High Costs: Expensive implementation for businesses
+
+📶 Tech Accessibility: Requires devices like VR headsets
+
+🎭 Accuracy & Realism: Virtual representations must be precise
+
+📚 Awareness Issues: Customers need education on these tools
+
+## The Future of Immersive Technology in Real Estate
+
+📈 More Affordable & User-Friendly VR/AR Tools
+
+🤖 Integration with AI & Machine Learning
+
+🎥 More Interactive & Customizable Virtual Tours
+
+## Conclusion
+✅ Key Takeaways
+
+🏡 VR/AR revolutionizes real estate customer engagement
+
+🚀 Enhances experience, boosts confidence, saves time
+
+🌍 Expands market reach & gives real estate firms a competitive edge
+
+🔜 Future growth will make immersive tech even more accessible
 ---
 
 ## Thank You
 
-- Any questions?
-- Contact: your.email@example.com
+💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate!
+
