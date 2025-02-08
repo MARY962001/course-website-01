@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Add a title to your Tab index page – Course website 01</title>
+<title>tab-one-index – Course website 01</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -123,41 +123,56 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nemo-enim-ipsam" id="toc-nemo-enim-ipsam" class="nav-link active" data-scroll-target="#nemo-enim-ipsam">Nemo enim ipsam</a></li>
-  <li><a href="#add-an-image" id="toc-add-an-image" class="nav-link" data-scroll-target="#add-an-image">Add an image</a></li>
+  <li><a href="#load-required-libraries" id="toc-load-required-libraries" class="nav-link active" data-scroll-target="#load-required-libraries">Load required libraries</a></li>
+  <li><a href="#define-number-of-respondents" id="toc-define-number-of-respondents" class="nav-link" data-scroll-target="#define-number-of-respondents">Define number of respondents</a></li>
+  <li><a href="#create-a-codebook" id="toc-create-a-codebook" class="nav-link" data-scroll-target="#create-a-codebook">Create a Codebook</a></li>
+  <li><a href="#generate-random-survey-responses" id="toc-generate-random-survey-responses" class="nav-link" data-scroll-target="#generate-random-survey-responses">Generate random survey responses</a></li>
+  <li><a href="#generate-random-timestamps-for-survey-completion" id="toc-generate-random-timestamps-for-survey-completion" class="nav-link" data-scroll-target="#generate-random-timestamps-for-survey-completion">Generate random timestamps for survey completion</a></li>
+  <li><a href="#show-first-few-rows-of-the-dataset" id="toc-show-first-few-rows-of-the-dataset" class="nav-link" data-scroll-target="#show-first-few-rows-of-the-dataset">Show first few rows of the dataset</a></li>
+  <li><a href="#save-the-dataset-as-a-csv-file" id="toc-save-the-dataset-as-a-csv-file" class="nav-link" data-scroll-target="#save-the-dataset-as-a-csv-file">Save the dataset as a CSV file</a></li>
+  <li><a href="#save-the-codebook-as-a-csv-file" id="toc-save-the-codebook-as-a-csv-file" class="nav-link" data-scroll-target="#save-the-codebook-as-a-csv-file">Save the codebook as a CSV file</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Add a title to your Tab index page</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="nemo-enim-ipsam" class="level2">
-<h2 class="anchored" data-anchor-id="nemo-enim-ipsam">Nemo enim ipsam</h2>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+<section id="load-required-libraries" class="level1">
+<h1>Load required libraries</h1>
+<p>library(tidyverse) library(lubridate)</p>
+<p>set.seed(123) # Ensure reproducibility</p>
 </section>
-<section id="add-an-image" class="level2">
-<h2 class="anchored" data-anchor-id="add-an-image">Add an image</h2>
-<p><img src="../images/workflow.png" class="img-fluid"></p>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+<section id="define-number-of-respondents" class="level1">
+<h1>Define number of respondents</h1>
+<p>n &lt;- 500</p>
+</section>
+<section id="create-a-codebook" class="level1">
+<h1>Create a Codebook</h1>
+<p>codebook &lt;- tibble( variable_name = c(“user_id”, “timestamp”, “gender”, “profession”, “used_vr_ar”, “impact_tech”, “effectiveness”, “benefit_vr_ar”, “challenge_cost”, “challenge_awareness”, “challenge_equipment”, “challenge_realism”, “future_vr_ar”, “concerns_accuracy”, “concerns_cost”, “concerns_technical”, “concerns_privacy”), question = c( “Unique User ID”, “Timestamp of survey response”, “What is your gender?”, “What is your profession?”, “Have you ever used Virtual Reality (VR) or Augmented Reality (AR) in real estate?”, “Which immersive technology has the most impact on customer engagement in real estate?”, “How effective is VR/AR in helping customers visualize properties?”, “What is the biggest benefit of using VR/AR in real estate?”, “Is high cost a challenge preventing VR/AR adoption?”, “Is lack of awareness a challenge preventing VR/AR adoption?”, “Is the need for specialized equipment a challenge preventing VR/AR adoption?”, “Are concerns about accuracy and realism a challenge preventing VR/AR adoption?”, “How do you think VR/AR will evolve in the real estate industry in the next 5 years?”, “Are you concerned about accuracy of virtual property representation?”, “Are you concerned about the cost of VR/AR services?”, “Are you concerned about technical difficulties in using the technology?”, “Are you concerned about privacy issues when using VR/AR in real estate?” ) )</p>
+</section>
+<section id="generate-random-survey-responses" class="level1">
+<h1>Generate random survey responses</h1>
+<p>survey_data &lt;- tibble( user_id = paste0(“id_”, 1:n), # Unique user IDs gender = sample(c(“Male”, “Female”, “Non-binary”, “Prefer not to say”), n, replace = TRUE, prob = c(0.45, 0.45, 0.05, 0.05)), profession = sample(c(“Real Estate Agent”, “Property Developer”, “Buyer/Renter”, “Investor”, “Student”, “Other”), n, replace = TRUE, prob = c(0.2, 0.15, 0.3, 0.15, 0.15, 0.05)), used_vr_ar = sample(c(“Yes, frequently”, “Yes, but rarely”, “No, but I am interested”, “No, I have no interest”), n, replace = TRUE, prob = c(0.15, 0.25, 0.4, 0.2)), impact_tech = sample(c(“VR – Full 3D property tours”, “AR – Interactive overlays on real-world properties”, “Both equally”, “Neither”), n, replace = TRUE, prob = c(0.3, 0.25, 0.35, 0.1)), effectiveness = sample(c(“Extremely effective”, “Somewhat effective”, “Neutral”, “Not very effective”, “Not effective at all”), n, replace = TRUE, prob = c(0.35, 0.4, 0.15, 0.07, 0.03)), benefit_vr_ar = sample(c(“Saves time for buyers and sellers”, “More immersive than photos/videos”, “Increases confidence in purchasing decisions”, “Expands market reach (remote buyers)”), n, replace = TRUE, prob = c(0.3, 0.3, 0.25, 0.15)), challenge_cost = sample(0:1, n, replace = TRUE, prob = c(0.7, 0.3)), # 30% see cost as a challenge challenge_awareness = sample(0:1, n, replace = TRUE, prob = c(0.6, 0.4)), # 40% see awareness as a challenge challenge_equipment = sample(0:1, n, replace = TRUE, prob = c(0.5, 0.5)), # 50% see equipment as a challenge challenge_realism = sample(0:1, n, replace = TRUE, prob = c(0.4, 0.6)), # 60% see realism as a challenge future_vr_ar = sample(c(“It will become an essential tool for property buying/selling”, “It will grow but remain a niche tool”, “It will not have a significant impact”), n, replace = TRUE, prob = c(0.5, 0.4, 0.1)), concerns_accuracy = sample(0:1, n, replace = TRUE, prob = c(0.6, 0.4)), # 40% are concerned about accuracy concerns_cost = sample(0:1, n, replace = TRUE, prob = c(0.5, 0.5)), # 50% are concerned about cost concerns_technical = sample(0:1, n, replace = TRUE, prob = c(0.55, 0.45)), # 45% are concerned about technical issues concerns_privacy = sample(0:1, n, replace = TRUE, prob = c(0.65, 0.35)) # 35% are concerned about privacy )</p>
+</section>
+<section id="generate-random-timestamps-for-survey-completion" class="level1">
+<h1>Generate random timestamps for survey completion</h1>
+<p>start_datetime &lt;- ymd_hms(“2023-01-01 00:00:00”) # Start date end_datetime &lt;- ymd_hms(“2023-12-31 23:59:59”) # End date total_seconds &lt;- as.numeric(difftime(end_datetime, start_datetime, units = “secs”))</p>
+<p>survey_data &lt;- survey_data %&gt;% mutate(timestamp = start_datetime + seconds(runif(n, min = 0, max = total_seconds)))</p>
+</section>
+<section id="show-first-few-rows-of-the-dataset" class="level1">
+<h1>Show first few rows of the dataset</h1>
+<p>head(survey_data)</p>
+</section>
+<section id="save-the-dataset-as-a-csv-file" class="level1">
+<h1>Save the dataset as a CSV file</h1>
+<p>write.csv(survey_data, “vr_ar_survey_data.csv”, row.names = FALSE)</p>
+</section>
+<section id="save-the-codebook-as-a-csv-file" class="level1">
+<h1>Save the codebook as a CSV file</h1>
+<p>write.csv(codebook, “survey_codebook.csv”, row.names = FALSE)</p>
 
 
 </section>
