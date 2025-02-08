@@ -4,17 +4,17 @@ project:
   execute-dir: project
   
 website:
-  title: "Course website 01"
+  title: "MAIRI GKALIANIDOU"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: HOME
       - href: tab-one/tab-one-index.qmd
-        text: Tab title
+        text: REPORT
       - href: tab-presentation/presentation-index.qmd
-        text: Presentations        
+        text: VISUALIZATION        
       - href: tab-iframe/iframe-index.qmd
-        text: iFrame example
+        text: SURVEY
     logo: images/logo_tepak.png
 
 format:
