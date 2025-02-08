@@ -2,11 +2,15 @@
 title: "Welcome"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Discover Luxury Living Enhanced by Immersive Technology
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Welcome to a new era of real estate, where luxury meets innovation. At Mare Estates, we go beyond offering exquisite apartments and villas—we redefine the way you experience property through immersive technology. With cutting-edge virtual tours, augmented reality (AR), and interactive 3D walkthroughs, we bring your dream home to life before you even step inside.
 
-## Nemo enim ipsam
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Our exclusive collection of high-end residences combines sophistication, comfort, and digital convenience. Whether you seek a serene beachfront villa or a stylish urban apartment, immersive technology allows you to explore every detail from anywhere in the world. Experience panoramic views, realistic textures, and spatial awareness like never before, making your property search seamless and engaging.
+
+Each of our 150+ global properties is designed to deliver the highest standards of luxury, featuring breathtaking architecture, premium amenities, and meticulously crafted spaces. With the power of immersive technology, you can visualize interior designs, customize features, and feel truly connected to your future home—all from the comfort of your device.
+
+At Mare Estates, customer experience is at the heart of everything we do. By integrating virtual reality (VR) and AI-driven personalization, we ensure that every client enjoys an interactive and tailored journey to finding their perfect residence.
+
+Step into the future of real estate—where luxury meets innovation, and your dream home is just a virtual tour away.
