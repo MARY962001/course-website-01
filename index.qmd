@@ -2,6 +2,7 @@
 title: "Welcome"
 ---
 
+![](images/ERGO.jpg){width="100%" style="border-radius: 8px;"}
 
 Discover Luxury Living Enhanced by Immersive Technology
 
@@ -14,3 +15,5 @@ Each of our 150+ global properties is designed to deliver the highest standards 
 At Mare Estates, customer experience is at the heart of everything we do. By integrating virtual reality (VR) and AI-driven personalization, we ensure that every client enjoys an interactive and tailored journey to finding their perfect residence.
 
 Step into the future of real estate—where luxury meets innovation, and your dream home is just a virtual tour away.
+
+MARE ESTATES
