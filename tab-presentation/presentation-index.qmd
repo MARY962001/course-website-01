@@ -1,17 +1,1 @@
 # Visualization Examples
-```{r}
-library(ggplot2)
-
-# Count responses
-awareness_data <- survey_data %>%
-  count(`Have you ever used Virtual Reality (VR) or Augmented Reality (AR) in real estate?`)
-
-# Plot pie chart
-ggplot(awareness_data, aes(x = "", y = n, fill = `Have you ever used Virtual Reality (VR) or Augmented Reality (AR) in real estate?`)) +
-  geom_bar(stat = "identity", width = 1) +
-  coord_polar(theta = "y") +
-  theme_void() +
-  labs(title = "VR/AR Awareness & Adoption in Real Estate") +
-  theme(legend.title = element_blank())
-
-```

@@ -1,5 +1,82 @@
 [
   {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
+    "href": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
+    "title": "Course overview",
+    "section": "What this course is about",
+    "text": "What this course is about\n\n\n1. Workflow\n\n\n\n\n2. Communicating data"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#communicating-data-dashboard",
+    "href": "tab-presentation/presentation1/presentation-example.html#communicating-data-dashboard",
+    "title": "Course overview",
+    "section": "Communicating data: Dashboard",
+    "text": "Communicating data: Dashboard"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-2",
+    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-2",
+    "title": "Course overview",
+    "section": "Example Dashboard 2",
+    "text": "Example Dashboard 2"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-3",
+    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-3",
+    "title": "Course overview",
+    "section": "Example Dashboard 3",
+    "text": "Example Dashboard 3"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-4",
+    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-4",
+    "title": "Course overview",
+    "section": "Example Dashboard 4",
+    "text": "Example Dashboard 4"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#what-is-a-dashboard",
+    "href": "tab-presentation/presentation1/presentation-example.html#what-is-a-dashboard",
+    "title": "Course overview",
+    "section": "What is a Dashboard?",
+    "text": "What is a Dashboard?\n\nDashboards provide a visual display of the most important information needed to achieve one or more objectives.\nThey consolidate and arrange information on a single screen.\n\nKey Characteristics of Effective Dashboards\n\nClarity: Information should be easy to read and interpret.\nAccuracy: Data must be accurate and up-to-date.\nRelevance: Content should align with user goals and needs."
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#definition-by-stephen-few",
+    "href": "tab-presentation/presentation1/presentation-example.html#definition-by-stephen-few",
+    "title": "Course overview",
+    "section": "Definition by Stephen Few",
+    "text": "Definition by Stephen Few"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#the-role-of-visual-design",
+    "href": "tab-presentation/presentation1/presentation-example.html#the-role-of-visual-design",
+    "title": "Course overview",
+    "section": "The Role of Visual Design",
+    "text": "The Role of Visual Design\n\nMinimize distractions and unnecessary elements.\nUse consistent layouts and formatting.\nApply thoughtful use of color and typography.\n\nBest Practices for Dashboard Design\n\nAvoid clutter: Only display essential information.\nPrioritize data: Highlight key metrics and KPIs.\nUse visual hierarchy: Direct the viewer’s focus to the most important elements."
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#common-pitfalls-to-avoid",
+    "href": "tab-presentation/presentation1/presentation-example.html#common-pitfalls-to-avoid",
+    "title": "Course overview",
+    "section": "Common Pitfalls to Avoid",
+    "text": "Common Pitfalls to Avoid\n\nOverloading the user with too much data.\nUsing overly complex or inconsistent designs.\nNeglecting the importance of user testing.\n\nWhat You Shoud Do\n\nFocus on the needs and goals of the dashboard’s end-users.\nIteratively test and refine designs to improve usability."
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#summary",
+    "href": "tab-presentation/presentation1/presentation-example.html#summary",
+    "title": "Course overview",
+    "section": "Summary",
+    "text": "Summary\n\nDashboards are powerful tools for decision-making.\nEffective dashboards balance clarity, relevance, and visual appeal.\nAvoid common pitfalls by focusing on user needs and testing designs."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Discover Luxury Living Enhanced by Immersive Technology\nWelcome to a new era of real estate, where luxury meets innovation. At Mare Estates, we go beyond offering exquisite apartments and villas—we redefine the way you experience property through immersive technology. With cutting-edge virtual tours, augmented reality (AR), and interactive 3D walkthroughs, we bring your dream home to life before you even step inside.\nOur exclusive collection of high-end residences combines sophistication, comfort, and digital convenience. Whether you seek a serene beachfront villa or a stylish urban apartment, immersive technology allows you to explore every detail from anywhere in the world. Experience panoramic views, realistic textures, and spatial awareness like never before, making your property search seamless and engaging.\nEach of our 150+ global properties is designed to deliver the highest standards of luxury, featuring breathtaking architecture, premium amenities, and meticulously crafted spaces. With the power of immersive technology, you can visualize interior designs, customize features, and feel truly connected to your future home—all from the comfort of your device.\nAt Mare Estates, customer experience is at the heart of everything we do. By integrating virtual reality (VR) and AI-driven personalization, we ensure that every client enjoys an interactive and tailored journey to finding their perfect residence.\nStep into the future of real estate—where luxury meets innovation, and your dream home is just a virtual tour away.\nMARE ESTATES"
+  },
+  {
     "objectID": "tab-one/tab-one-index.html#introduction-to-immersive-technology",
     "href": "tab-one/tab-one-index.html#introduction-to-immersive-technology",
     "title": "HOW IMMERSIVE TECHNOLOGY IMPACTS CUSTOMER ENGAGEMENT IN REAL ESTATE",
@@ -61,5 +138,19 @@
     "title": "HOW IMMERSIVE TECHNOLOGY IMPACTS CUSTOMER ENGAGEMENT IN REAL ESTATE",
     "section": "Thank You",
     "text": "Thank You\n💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate!"
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html",
+    "href": "tab-presentation/presentation-index.html",
+    "title": "Visualization Examples",
+    "section": "",
+    "text": "Visualization Examples"
+  },
+  {
+    "objectID": "tab-iframe/iframe-index.html",
+    "href": "tab-iframe/iframe-index.html",
+    "title": "SURVEY",
+    "section": "",
+    "text": "Φόρτωση…"
   }
 ]
