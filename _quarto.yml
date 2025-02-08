@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: HOME
       - href: tab-one/tab-one-index.qmd
-        text: REPORT
+        text: PRESENTATION
       - href: tab-presentation/presentation-index.qmd
         text: VISUALIZATION        
       - href: tab-iframe/iframe-index.qmd

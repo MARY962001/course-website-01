@@ -13,30 +13,74 @@ format:
 
 🔍 What is Immersive Technology?
 
-🕶️ Virtual Reality (VR): Fully digital environments for interaction
+🕶️ Virtual Reality: Users get to interact through a simulated reality. Vision and hearing is stimulated. The goal is to immerse into a virtual world and prevent from seeing the real world. VR is about 75% virtual and 25% real.
 
-📱 Augmented Reality (AR): Digital overlays on the real world
+📱 Augmented Reality: Amplifies real-world surroundings adding virtual features that the user may interact with. Augmented reality doesn’t try to immerse and block out the real world - it overlays graphics and animation on top of real-world environments. AR is about 25% virtual and 75% real.
 
-🏗️ Transforming industries, including real estate
+## VR vs. AR in Real Estate
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# Load required libraries
+library(knitr)
+library(kableExtra)
+
+# Create the comparison table
+vr_ar_table <- data.frame(
+  Feature = c("Experience Type", "Device Requirement", "Use Case in Real Estate",
+              "Interactivity", "Best For", "User Engagement",
+              "Cost & Implementation", "Challenges"),
+  
+  "Virtual Reality (VR) 🕶️" = c("Fully immersive 3D world",
+                                 "VR headset (Oculus, HTC Vive)",
+                                 "Virtual property tours, metaverse real estate",
+                                 "Users navigate a complete virtual environment",
+                                 "Remote property viewing, pre-construction projects",
+                                 "High immersion but requires dedicated hardware",
+                                 "Higher setup cost, requires 3D modeling",
+                                 "Need for VR hardware, motion sickness concerns"),
+  
+  "Augmented Reality (AR) 📱" = c("Overlays digital elements on the real world",
+                                  "Smartphone, tablet, or AR glasses",
+                                  "Interactive property previews, furniture staging",
+                                  "Users interact with digital elements in real-world spaces",
+                                  "Home customization, on-site enhancements",
+                                  "More accessible but less immersive",
+                                  "Lower cost, can be integrated with mobile apps",
+                                  "Accuracy of overlays, dependency on camera quality")
+)
+
+# Render table with medium-sized text and responsive layout
+kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & AR in Real Estate") %>%
+  kable_styling(font_size = 19, bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+```
+
+
 
 ## Immersive Technology in Real Estate
 
-🏠 How Immersive Tech is Used in Real Estate
+🏠 How Immersive Tech is Used in Real Estate?
 
 🕶️ VR: 360° property tours, virtual staging, remote viewing
 
-📱 AR: Interactive overlays, property previews, real-time mapping
+📱 AR: Interactive overlays, customization pre purchase, real-time mapping
+
+
+
 
 ## Increased Customer Engagement
 
 
-📈 How Immersive Technology Boosts Engagement
+📈 How Immersive Technology Boosts Engagement?
 
 👀 Enhanced Visual Experience: Explore properties interactively
 
 🎨 Personalized Interactions: Try different designs/furniture
 
 ⏳ Convenience: Saves time, allows remote visits
+
+
 
 ## Benefits for Real Estate Companies
 
