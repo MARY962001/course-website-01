@@ -58,9 +58,8 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 
 
-## Immersive Technology in Real Estate
+## 🏠 How Immersive Technology is Used in Real Estate?
 
-🏠 How Immersive Tech is Used in Real Estate?
 
 🕶️ VR: 360° property tours, virtual staging, remote viewing
 
@@ -69,10 +68,8 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 
 
-## Increased Customer Engagement
+## 📈 How Immersive Technology Boosts Engagement?
 
-
-📈 How Immersive Technology Boosts Engagement?
 
 👀 Enhanced Visual Experience: Explore properties interactively
 
@@ -83,6 +80,7 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 
 ## Benefits for Real Estate Companies
+
 
 🏢 Key Benefits for Real Estate Firms
 
@@ -95,6 +93,7 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 ## Benefits for Customers
 
+
 👨 Customer Benefits of Immersive Technology
 
 🏡 Interactive Viewing: Explore homes in 360°
@@ -104,6 +103,7 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 🕒 Flexibility: View properties anytime, anywhere
 
 ## Challenges and Barriers
+
 
 ⚠️ Challenges in Adopting Immersive Technology
 
@@ -117,6 +117,7 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 ## The Future of Immersive Technology in Real Estate
 
+
 📈 More Affordable & User-Friendly VR/AR Tools
 
 🤖 Integration with AI & Machine Learning
@@ -124,6 +125,8 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 🎥 More Interactive & Customizable Virtual Tours
 
 ## Conclusion
+
+
 ✅ Key Takeaways
 
 🏡 VR/AR revolutionizes real estate customer engagement
