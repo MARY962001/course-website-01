@@ -9,9 +9,8 @@ format:
     toc: true
 ---
 
-## Introduction to Immersive Technology
+## What is Immersive Technology?
 
-🔍 What is Immersive Technology?
 
 🕶️ Virtual Reality: Users get to interact through a simulated reality. Vision and hearing is stimulated. The goal is to immerse into a virtual world and prevent from seeing the real world. VR is about 75% virtual and 25% real.
 
@@ -61,10 +60,11 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 ## 🏠 How Immersive Technology is Used in Real Estate?
 
 
-🕶️ VR: 360° property tours, virtual staging, remote viewing
+🕶️Virtual Property Tours (VR) – Buyers can explore homes remotely through 360-degree VR tours, enhancing convenience and decision-making.
 
-📱 AR: Interactive overlays, customization pre purchase, real-time mapping
+📱Augmented Reality (AR) Visualization – AR apps help buyers visualize furniture placement and architectural designs in real-time.Realtors utilize virtual staging and marketing through digital furniture and AI-driven ads to showcase homes without physical staging.
 
+ 
 
 
 
@@ -82,30 +82,24 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 ## Benefits for Real Estate Companies
 
 
-🏢 Key Benefits for Real Estate Firms
+1️⃣ Enhanced Property Visualization – Virtual tours and 3D models allow clients to explore properties remotely, saving time, effort, enhacing customer's faster decision making.
 
-🌍 Broader Reach: Attracts global buyers
+2️⃣ Cost Savings on Staging – Virtual staging replaces physical staging, reducing expenses while showcasing properties attractively.
 
-💰 Higher Conversion Rates: Faster decision-making
-
-🚀 Competitive Advantage: Tech-driven experiences stand out
+3️⃣ Global Reach & Accessibility – Remote clients can view properties from anywhere, expanding the market for real estate firms.
 
 
 ## Benefits for Customers
 
 
-👨 Customer Benefits of Immersive Technology
+1️⃣ Convenience & Time-Saving – Customers can explore multiple properties remotely through virtual tours, reducing the need for physical visits.
 
-🏡 Interactive Viewing: Explore homes in 360°
+2️⃣ Better Decision-Making – AR and VR provide a realistic sense of space, layout, and design, helping buyers make informed choices.
 
-✨ Instant Visualization: See renovations before buying
-
-🕒 Flexibility: View properties anytime, anywhere
+3️⃣ Personalized Experience – Customers can customize interiors virtually, visualizing furniture placement and renovations before purchasing.
 
 ## Challenges and Barriers
 
-
-⚠️ Challenges in Adopting Immersive Technology
 
 💲 High Costs: Expensive implementation for businesses
 
@@ -117,12 +111,11 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 ## The Future of Immersive Technology in Real Estate
 
+📈 VR and AR will become cheaper and easier to use, increasing adoption in real estate. User-friendly interfaces will allow buyers to explore properties effortlessly.
 
-📈 More Affordable & User-Friendly VR/AR Tools
+🤖 AI will analyze buyer preferences offering personalized property recommendations.Real-time customization through AI chatbots will provide automated insights, making buying faster and easier.
 
-🤖 Integration with AI & Machine Learning
-
-🎥 More Interactive & Customizable Virtual Tours
+🎥 Buyers will modify property elements like colors and furniture.Interactive tours will include voice guides, embedded videos, and analytics.
 
 ## Conclusion
 
@@ -140,5 +133,10 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 ## Thank You
 
-💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate!
+💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate.
+
+```{r, echo=FALSE, out.width="50%"}
+knitr::include_graphics("images/R.jpg")
+```
+
 
