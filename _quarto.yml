@@ -11,12 +11,10 @@ website:
         text: HOME
       - href: tab-one/tab-one-index.qmd
         text: PRESENTATION
-      - href: tab-presentation/presentation-index.qmd
-        text: VISUALIZATION        
       - href: tab-iframe/iframe-index.qmd
         text: SURVEY
       - href: tab2-iframe/iframe2-index.qmd
-        text: Data
+        text: VISUALIZATION 
     logo: images/logo_tepak.png
 
 format:
