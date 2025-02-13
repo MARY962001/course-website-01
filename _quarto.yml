@@ -12,7 +12,7 @@ website:
       - href: index.qmd
         text: PROJECTS
       - href: index.qmd
-        text: CONTACT
+        text: CONTACTS
       - href: tab-one/tab-one-index.qmd
         text: PRESENTATION
       - href: tab-iframe/iframe-index.qmd
