@@ -1,0 +1,46 @@
+---
+title: "Properties"
+format: html
+---
+
+# Welcome to our real estate portfolio! Here, you'll find some of our most exciting projects, from modern apartments to luxurious villas. 
+
+
+---
+
+## **Luxury Downtown Apartments**  
+📍 *Location: City Center, Downtown*  
+
+A collection of high-end apartments with stunning city skyline views. Each unit is designed with modern interiors and top-notch amenities.  
+
+🖼 **Images:**  
+![](images/AA.jpg)  
+ 
+
+---
+
+## **Green Living Villas**  
+📍 *Location: Suburban Hills*  
+
+A sustainable and eco-friendly villa community surrounded by nature. Each home is equipped with solar panels, smart home features, and energy-efficient designs.  
+
+🖼 **Images:**  
+![](images/VILLA.jpg)  
+ 
+
+---
+
+## **Seaside Paradise Homes**  
+📍 *Location: Oceanfront Beach*  
+
+Luxury beachfront properties with direct access to the ocean. These homes offer breathtaking views and an exclusive lifestyle.  
+
+🖼 **Images:**  
+![](images/BB.jpg)  
+
+
+---
+
+## 📌 **More Projects Coming Soon!**  
+Stay tuned for more exciting real estate developments. If you're interested in any of our projects, feel free to [contact us](contacts.qmd)!  
+

@@ -1,0 +1,31 @@
+---
+title: "Contact Us"
+format: html
+---
+
+# 📞 Get in Touch  
+
+We'd love to hear from you! Whether you have questions, feedback, or collaboration ideas, feel free to reach out using the details below.
+
+## 📍 Our Location  
+**MARE ESTATES**  
+ELLADOS STREET 
+LIMASSOL, 3101  
+CYPRUS  
+
+## 📧 Email Us  
+✉️ **General Inquiries**: [info@mare.com]  
+📩 **Support**: [support@estatesmare.com] 
+
+## 📞 Call Us  
+☎ **Office***: (+357) 25304512 
+
+
+## 🌐 Connect With Us  
+🔗 [Website](http://demotec.cut.ac.cy:8787/p/5cb14c6e/contacts.html)  
+🐦 [Twitter](https://twitter.com/mare)  
+📘 [Facebook](https://facebook.com/mare)  
+📸 [Instagram](https://instagram.com/mare)  
+💼 [LinkedIn](https://linkedin.com/company/mare)  
+
+---
