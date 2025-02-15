@@ -1,150 +1,24 @@
 [
   {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
-    "href": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
-    "title": "Course overview",
-    "section": "What this course is about",
-    "text": "What this course is about\n\n\n1. Workflow\n\n\n\n\n2. Communicating data"
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#communicating-data-dashboard",
-    "href": "tab-presentation/presentation1/presentation-example.html#communicating-data-dashboard",
-    "title": "Course overview",
-    "section": "Communicating data: Dashboard",
-    "text": "Communicating data: Dashboard"
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-2",
-    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-2",
-    "title": "Course overview",
-    "section": "Example Dashboard 2",
-    "text": "Example Dashboard 2"
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-3",
-    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-3",
-    "title": "Course overview",
-    "section": "Example Dashboard 3",
-    "text": "Example Dashboard 3"
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-4",
-    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-4",
-    "title": "Course overview",
-    "section": "Example Dashboard 4",
-    "text": "Example Dashboard 4"
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#what-is-a-dashboard",
-    "href": "tab-presentation/presentation1/presentation-example.html#what-is-a-dashboard",
-    "title": "Course overview",
-    "section": "What is a Dashboard?",
-    "text": "What is a Dashboard?\n\nDashboards provide a visual display of the most important information needed to achieve one or more objectives.\nThey consolidate and arrange information on a single screen.\n\nKey Characteristics of Effective Dashboards\n\nClarity: Information should be easy to read and interpret.\nAccuracy: Data must be accurate and up-to-date.\nRelevance: Content should align with user goals and needs."
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#definition-by-stephen-few",
-    "href": "tab-presentation/presentation1/presentation-example.html#definition-by-stephen-few",
-    "title": "Course overview",
-    "section": "Definition by Stephen Few",
-    "text": "Definition by Stephen Few"
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#the-role-of-visual-design",
-    "href": "tab-presentation/presentation1/presentation-example.html#the-role-of-visual-design",
-    "title": "Course overview",
-    "section": "The Role of Visual Design",
-    "text": "The Role of Visual Design\n\nMinimize distractions and unnecessary elements.\nUse consistent layouts and formatting.\nApply thoughtful use of color and typography.\n\nBest Practices for Dashboard Design\n\nAvoid clutter: Only display essential information.\nPrioritize data: Highlight key metrics and KPIs.\nUse visual hierarchy: Direct the viewer’s focus to the most important elements."
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#common-pitfalls-to-avoid",
-    "href": "tab-presentation/presentation1/presentation-example.html#common-pitfalls-to-avoid",
-    "title": "Course overview",
-    "section": "Common Pitfalls to Avoid",
-    "text": "Common Pitfalls to Avoid\n\nOverloading the user with too much data.\nUsing overly complex or inconsistent designs.\nNeglecting the importance of user testing.\n\nWhat You Shoud Do\n\nFocus on the needs and goals of the dashboard’s end-users.\nIteratively test and refine designs to improve usability."
-  },
-  {
-    "objectID": "tab-presentation/presentation1/presentation-example.html#summary",
-    "href": "tab-presentation/presentation1/presentation-example.html#summary",
-    "title": "Course overview",
-    "section": "Summary",
-    "text": "Summary\n\nDashboards are powerful tools for decision-making.\nEffective dashboards balance clarity, relevance, and visual appeal.\nAvoid common pitfalls by focusing on user needs and testing designs."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "tab-testimonials/testimonials.html",
+    "href": "tab-testimonials/testimonials.html",
+    "title": "Sentiment Analysis of Participatory Budgeting Tweets",
     "section": "",
-    "text": "Discover Luxury Living Enhanced by Immersive Technology\nWelcome to a new era of real estate, where luxury meets innovation. At Mare Estates, we go beyond offering exquisite apartments and villas—we redefine the way you experience property through immersive technology. With cutting-edge virtual tours, augmented reality (AR), and interactive 3D walkthroughs, we bring your dream home to life before you even step inside.\nOur exclusive collection of high-end residences combines sophistication, comfort, and digital convenience. Whether you seek a serene beachfront villa or a stylish urban apartment, immersive technology allows you to explore every detail from anywhere in the world. Experience panoramic views, realistic textures, and spatial awareness like never before, making your property search seamless and engaging.\nEach of our 150+ global properties is designed to deliver the highest standards of luxury, featuring breathtaking architecture, premium amenities, and meticulously crafted spaces. With the power of immersive technology, you can visualize interior designs, customize features, and feel truly connected to your future home—all from the comfort of your device.\nAt Mare Estates, customer experience is at the heart of everything we do. By integrating virtual reality (VR) and AI-driven personalization, we ensure that every client enjoys an interactive and tailored journey to finding their perfect residence.\nStep into the future of real estate—where luxury meets innovation, and your dream home is just a virtual tour away.\nMARE ESTATES"
+    "text": "id\ntext\nsentiment\ntweet_id\nsentiment_score\nsentiment_category\n\n\n\n\nP1\nJust took a VR tour of my dream house in Miami while sitting in NYC! Saved so much time and money on travel. The future of house hunting is here! ?? #VRrealestate\npositive\n1\n3\nPositive\n\n\nP2\nAmazing AR experience with @RealtyApp - could visualize different furniture layouts and wall colors in real-time during the house viewing! #PropTech\npositive\n2\n4\nPositive\n\n\nP3\nVirtual staging through VR helped me sell my house in just 2 weeks! Buyers loved seeing different design possibilities #RealEstateTech\npositive\n3\n3\nPositive\n\n\nP4\nThe AR measuring tool was spot-on! No more carrying tape measures to viewings - just scanned rooms with my phone to check if furniture would fit ????\npositive\n4\n1\nPositive\n\n\nP5\nVR walkthrough helped my overseas clients make a confident purchase decision without flying in. Closed the deal entirely remotely! #InternationalRealEstate\npositive\n5\n2\nPositive"
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "We’d love to hear from you! Whether you have questions, feedback, or collaboration ideas, feel free to reach out using the details below.\n\n\nMARE ESTATES\nELLADOS STREET LIMASSOL, 3101\nCYPRUS\n\n\n\n✉️ General Inquiries: [info@mare.com]\n📩 Support: [support@estatesmare.com]\n\n\n\n☎ Office*: (+357) 25304512\n\n\n\n🔗 Website\n🐦 Twitter\n📘 Facebook\n📸 Instagram\n💼 LinkedIn"
+    "objectID": "tab-testimonials/testimonials.html#data-exploration",
+    "href": "tab-testimonials/testimonials.html#data-exploration",
+    "title": "Sentiment Analysis of Participatory Budgeting Tweets",
+    "section": "Data Exploration",
+    "text": "Data Exploration\nBelow we provide some very basic descriptives of the sentiment annotated Tweet dataset.\n\nSentiment Overall\nThis table and graph below shows the overall distribution of sentiment for the twitter dataset.\n\n\n\n\n\nSentiment\nCount\nProportion\n\n\n\n\nNegative\n8\n26.7\n\n\nNeutral\n8\n26.7\n\n\nPositive\n14\n46.7"
   },
   {
-    "objectID": "contacts.html#our-location",
-    "href": "contacts.html#our-location",
-    "title": "Contact Us",
+    "objectID": "tab-presentation/presentation-index.html",
+    "href": "tab-presentation/presentation-index.html",
+    "title": "Visualization Examples",
     "section": "",
-    "text": "MARE ESTATES\nELLADOS STREET LIMASSOL, 3101\nCYPRUS"
-  },
-  {
-    "objectID": "contacts.html#email-us",
-    "href": "contacts.html#email-us",
-    "title": "Contact Us",
-    "section": "",
-    "text": "✉️ General Inquiries: [info@mare.com]\n📩 Support: [support@estatesmare.com]"
-  },
-  {
-    "objectID": "contacts.html#call-us",
-    "href": "contacts.html#call-us",
-    "title": "Contact Us",
-    "section": "",
-    "text": "☎ Office*: (+357) 25304512"
-  },
-  {
-    "objectID": "contacts.html#connect-with-us",
-    "href": "contacts.html#connect-with-us",
-    "title": "Contact Us",
-    "section": "",
-    "text": "🔗 Website\n🐦 Twitter\n📘 Facebook\n📸 Instagram\n💼 LinkedIn"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Properties",
-    "section": "",
-    "text": "📍 Location: City Center, Downtown\nA collection of high-end apartments with stunning city skyline views. Each unit is designed with modern interiors and top-notch amenities.\n🖼 Images:\n\n\n\n\n\n📍 Location: Suburban Hills\nA sustainable and eco-friendly villa community surrounded by nature. Each home is equipped with solar panels, smart home features, and energy-efficient designs.\n🖼 Images:\n\n\n\n\n\n📍 Location: Oceanfront Beach\nLuxury beachfront properties with direct access to the ocean. These homes offer breathtaking views and an exclusive lifestyle.\n🖼 Images:\n\n\n\n\n\nStay tuned for more exciting real estate developments. If you’re interested in any of our projects, feel free to contact us!"
-  },
-  {
-    "objectID": "projects.html#luxury-downtown-apartments",
-    "href": "projects.html#luxury-downtown-apartments",
-    "title": "Properties",
-    "section": "",
-    "text": "📍 Location: City Center, Downtown\nA collection of high-end apartments with stunning city skyline views. Each unit is designed with modern interiors and top-notch amenities.\n🖼 Images:"
-  },
-  {
-    "objectID": "projects.html#green-living-villas",
-    "href": "projects.html#green-living-villas",
-    "title": "Properties",
-    "section": "",
-    "text": "📍 Location: Suburban Hills\nA sustainable and eco-friendly villa community surrounded by nature. Each home is equipped with solar panels, smart home features, and energy-efficient designs.\n🖼 Images:"
-  },
-  {
-    "objectID": "projects.html#seaside-paradise-homes",
-    "href": "projects.html#seaside-paradise-homes",
-    "title": "Properties",
-    "section": "",
-    "text": "📍 Location: Oceanfront Beach\nLuxury beachfront properties with direct access to the ocean. These homes offer breathtaking views and an exclusive lifestyle.\n🖼 Images:"
-  },
-  {
-    "objectID": "projects.html#more-projects-coming-soon",
-    "href": "projects.html#more-projects-coming-soon",
-    "title": "Properties",
-    "section": "",
-    "text": "Stay tuned for more exciting real estate developments. If you’re interested in any of our projects, feel free to contact us!"
+    "text": "Visualization Examples"
   },
   {
     "objectID": "tab-one/tab-one-index.html#what-is-immersive-technology",
@@ -217,11 +91,151 @@
     "text": "Thank You\n💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate."
   },
   {
-    "objectID": "tab-presentation/presentation-index.html",
-    "href": "tab-presentation/presentation-index.html",
-    "title": "Visualization Examples",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Properties",
     "section": "",
-    "text": "Visualization Examples"
+    "text": "📍 Location: City Center, Downtown\nA collection of high-end apartments with stunning city skyline views. Each unit is designed with modern interiors and top-notch amenities.\n🖼 Images:\n\n\n\n\n\n📍 Location: Suburban Hills\nA sustainable and eco-friendly villa community surrounded by nature. Each home is equipped with solar panels, smart home features, and energy-efficient designs.\n🖼 Images:\n\n\n\n\n\n📍 Location: Oceanfront Beach\nLuxury beachfront properties with direct access to the ocean. These homes offer breathtaking views and an exclusive lifestyle.\n🖼 Images:\n\n\n\n\n\nStay tuned for more exciting real estate developments. If you’re interested in any of our projects, feel free to contact us!"
+  },
+  {
+    "objectID": "projects.html#luxury-downtown-apartments",
+    "href": "projects.html#luxury-downtown-apartments",
+    "title": "Properties",
+    "section": "",
+    "text": "📍 Location: City Center, Downtown\nA collection of high-end apartments with stunning city skyline views. Each unit is designed with modern interiors and top-notch amenities.\n🖼 Images:"
+  },
+  {
+    "objectID": "projects.html#green-living-villas",
+    "href": "projects.html#green-living-villas",
+    "title": "Properties",
+    "section": "",
+    "text": "📍 Location: Suburban Hills\nA sustainable and eco-friendly villa community surrounded by nature. Each home is equipped with solar panels, smart home features, and energy-efficient designs.\n🖼 Images:"
+  },
+  {
+    "objectID": "projects.html#seaside-paradise-homes",
+    "href": "projects.html#seaside-paradise-homes",
+    "title": "Properties",
+    "section": "",
+    "text": "📍 Location: Oceanfront Beach\nLuxury beachfront properties with direct access to the ocean. These homes offer breathtaking views and an exclusive lifestyle.\n🖼 Images:"
+  },
+  {
+    "objectID": "projects.html#more-projects-coming-soon",
+    "href": "projects.html#more-projects-coming-soon",
+    "title": "Properties",
+    "section": "",
+    "text": "Stay tuned for more exciting real estate developments. If you’re interested in any of our projects, feel free to contact us!"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We’d love to hear from you! Whether you have questions, feedback, or collaboration ideas, feel free to reach out using the details below.\n\n\nMARE ESTATES\nELLADOS STREET LIMASSOL, 3101\nCYPRUS\n\n\n\n✉️ General Inquiries: [info@mare.com]\n📩 Support: [support@estatesmare.com]\n\n\n\n☎ Office*: (+357) 25304512\n\n\n\n🔗 Website\n🐦 Twitter\n📘 Facebook\n📸 Instagram\n💼 LinkedIn"
+  },
+  {
+    "objectID": "contacts.html#our-location",
+    "href": "contacts.html#our-location",
+    "title": "Contact Us",
+    "section": "",
+    "text": "MARE ESTATES\nELLADOS STREET LIMASSOL, 3101\nCYPRUS"
+  },
+  {
+    "objectID": "contacts.html#email-us",
+    "href": "contacts.html#email-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "✉️ General Inquiries: [info@mare.com]\n📩 Support: [support@estatesmare.com]"
+  },
+  {
+    "objectID": "contacts.html#call-us",
+    "href": "contacts.html#call-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "☎ Office*: (+357) 25304512"
+  },
+  {
+    "objectID": "contacts.html#connect-with-us",
+    "href": "contacts.html#connect-with-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "🔗 Website\n🐦 Twitter\n📘 Facebook\n📸 Instagram\n💼 LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Discover Luxury Living Enhanced by Immersive Technology\nWelcome to a new era of real estate, where luxury meets innovation. At Mare Estates, we go beyond offering exquisite apartments and villas—we redefine the way you experience property through immersive technology. With cutting-edge virtual tours, augmented reality (AR), and interactive 3D walkthroughs, we bring your dream home to life before you even step inside.\nOur exclusive collection of high-end residences combines sophistication, comfort, and digital convenience. Whether you seek a serene beachfront villa or a stylish urban apartment, immersive technology allows you to explore every detail from anywhere in the world. Experience panoramic views, realistic textures, and spatial awareness like never before, making your property search seamless and engaging.\nEach of our 150+ global properties is designed to deliver the highest standards of luxury, featuring breathtaking architecture, premium amenities, and meticulously crafted spaces. With the power of immersive technology, you can visualize interior designs, customize features, and feel truly connected to your future home—all from the comfort of your device.\nAt Mare Estates, customer experience is at the heart of everything we do. By integrating virtual reality (VR) and AI-driven personalization, we ensure that every client enjoys an interactive and tailored journey to finding their perfect residence.\nStep into the future of real estate—where luxury meets innovation, and your dream home is just a virtual tour away.\nMARE ESTATES"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
+    "href": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
+    "title": "Course overview",
+    "section": "What this course is about",
+    "text": "What this course is about\n\n\n1. Workflow\n\n\n\n\n2. Communicating data"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#communicating-data-dashboard",
+    "href": "tab-presentation/presentation1/presentation-example.html#communicating-data-dashboard",
+    "title": "Course overview",
+    "section": "Communicating data: Dashboard",
+    "text": "Communicating data: Dashboard"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-2",
+    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-2",
+    "title": "Course overview",
+    "section": "Example Dashboard 2",
+    "text": "Example Dashboard 2"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-3",
+    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-3",
+    "title": "Course overview",
+    "section": "Example Dashboard 3",
+    "text": "Example Dashboard 3"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#example-dashboard-4",
+    "href": "tab-presentation/presentation1/presentation-example.html#example-dashboard-4",
+    "title": "Course overview",
+    "section": "Example Dashboard 4",
+    "text": "Example Dashboard 4"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#what-is-a-dashboard",
+    "href": "tab-presentation/presentation1/presentation-example.html#what-is-a-dashboard",
+    "title": "Course overview",
+    "section": "What is a Dashboard?",
+    "text": "What is a Dashboard?\n\nDashboards provide a visual display of the most important information needed to achieve one or more objectives.\nThey consolidate and arrange information on a single screen.\n\nKey Characteristics of Effective Dashboards\n\nClarity: Information should be easy to read and interpret.\nAccuracy: Data must be accurate and up-to-date.\nRelevance: Content should align with user goals and needs."
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#definition-by-stephen-few",
+    "href": "tab-presentation/presentation1/presentation-example.html#definition-by-stephen-few",
+    "title": "Course overview",
+    "section": "Definition by Stephen Few",
+    "text": "Definition by Stephen Few"
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#the-role-of-visual-design",
+    "href": "tab-presentation/presentation1/presentation-example.html#the-role-of-visual-design",
+    "title": "Course overview",
+    "section": "The Role of Visual Design",
+    "text": "The Role of Visual Design\n\nMinimize distractions and unnecessary elements.\nUse consistent layouts and formatting.\nApply thoughtful use of color and typography.\n\nBest Practices for Dashboard Design\n\nAvoid clutter: Only display essential information.\nPrioritize data: Highlight key metrics and KPIs.\nUse visual hierarchy: Direct the viewer’s focus to the most important elements."
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#common-pitfalls-to-avoid",
+    "href": "tab-presentation/presentation1/presentation-example.html#common-pitfalls-to-avoid",
+    "title": "Course overview",
+    "section": "Common Pitfalls to Avoid",
+    "text": "Common Pitfalls to Avoid\n\nOverloading the user with too much data.\nUsing overly complex or inconsistent designs.\nNeglecting the importance of user testing.\n\nWhat You Shoud Do\n\nFocus on the needs and goals of the dashboard’s end-users.\nIteratively test and refine designs to improve usability."
+  },
+  {
+    "objectID": "tab-presentation/presentation1/presentation-example.html#summary",
+    "href": "tab-presentation/presentation1/presentation-example.html#summary",
+    "title": "Course overview",
+    "section": "Summary",
+    "text": "Summary\n\nDashboards are powerful tools for decision-making.\nEffective dashboards balance clarity, relevance, and visual appeal.\nAvoid common pitfalls by focusing on user needs and testing designs."
   },
   {
     "objectID": "tab-iframe/iframe-index.html",

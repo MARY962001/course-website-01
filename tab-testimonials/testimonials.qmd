@@ -1,0 +1,77 @@
+---
+title: "Sentiment Analysis of Participatory Budgeting Tweets"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    #code-fold: show
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  cache = FALSE
+)
+```
+
+
+```{r load-data}
+library(tidyverse)
+library(kableExtra) # for tables
+library(reactable) # for interactive tables
+library(ggpubr) # for graphs
+library(here) # for directory paths
+library(rstatix)
+
+# Read the final sentiment-scored data
+df_tw <- read_csv(here("tab-testimonials/real_estate_sentiment.csv"))
+
+# Check the first few rows, and render as an html table
+head(df_tw, 5) %>% 
+  kbl()
+```
+
+## Data Exploration
+
+Below we provide some very basic descriptives of the sentiment annotated Tweet dataset.
+
+### Sentiment Overall
+
+This table and graph below shows the overall distribution of sentiment for the twitter dataset.
+
+```{r overall-sentiment}
+# Create a summary table of overall sentiment, and give useful columns headings
+overall_sentiment <- df_tw %>%
+  freq_table(sentiment_category) %>% 
+  rename(
+    `Sentiment` = "sentiment_category",
+    `Proportion` = "prop",
+    `Count` = "n"
+  )
+
+# Create table 
+overall_sentiment %>% 
+  kbl()
+
+```
+
+
+```{r overall-dist}
+ggbarplot(
+  data = overall_sentiment,
+  x = "Sentiment",
+  y = "Proportion",
+  fill = "Sentiment",
+  label = TRUE,
+  label.pos = "out",
+  title = "Sentiment Overall Distribution",
+  xlab = "Sentiment",
+  ylab = "Proportion (%)")
+
+# Note the legend is actually unnecesary, labels are already included in the x axis 
+  
+```
+
+

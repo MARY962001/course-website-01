@@ -138,6 +138,5 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 ![](R.jpg)
 
 
-# knitr::include_graphics("R.jpg")
 
 

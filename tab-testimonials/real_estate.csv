@@ -1,0 +1,31 @@
+id,text,sentiment
+P1,"Just took a VR tour of my dream house in Miami while sitting in NYC! Saved so much time and money on travel. The future of house hunting is here! ?? #VRrealestate",positive
+P2,"Amazing AR experience with @RealtyApp - could visualize different furniture layouts and wall colors in real-time during the house viewing! #PropTech",positive
+P3,"Virtual staging through VR helped me sell my house in just 2 weeks! Buyers loved seeing different design possibilities #RealEstateTech",positive
+P4,"The AR measuring tool was spot-on! No more carrying tape measures to viewings - just scanned rooms with my phone to check if furniture would fit ????",positive
+P5,"VR walkthrough helped my overseas clients make a confident purchase decision without flying in. Closed the deal entirely remotely! #InternationalRealEstate",positive
+P6,"Love how VR tours show the property in different lighting conditions - morning, afternoon, evening. Such a game-changer for buying! #RealEstate",positive
+P7,"AR renovation preview is incredible! Showed me exactly how my kitchen remodel would look before committing. No more guesswork! #PropertyTech",positive
+P8,"VR neighborhood tours are brilliant! Got to virtually walk around the area, check out local shops, and see the commute route. Sold! #RealEstate",positive
+P9,"The AR property info overlay is fantastic - point your phone at any house and instantly see price history, square footage, and recent sales! #PropTech",positive
+P10,"VR multi-property tours saved me weeks of house hunting. Viewed 15 properties in one sitting! This is revolutionary ??? #RealEstateTechnology",positive
+N1,"VR tour completely misrepresented the property size - rooms looked way bigger virtually than in reality. Wasted trip! #RealEstateProblems",negative
+N2,"AR measuring tool was off by several inches. Had to return furniture that didn't fit despite using the app. Don't trust it! #PropTechFail",negative
+N3,"Virtual staging made the property look nothing like reality. Felt completely misled when I saw it in person. #FalseAdvertising",negative
+N4,"VR tour quality was terrible - laggy, blurry, and made me dizzy. Couldn't even finish viewing the property! ?? #VRfail",negative
+N5,"AR renovation preview was so inaccurate - colors and textures looked completely different in reality. Expensive mistake! #RenovationFail",negative
+N6,"The VR neighborhood tour didn't show the construction site next door. Convenient omission! Very misleading ?? #RealEstateScam",negative
+N7,"AR property info was outdated and incorrect. Showed wrong price and square footage. Do your own research! #PropTech",negative
+N8,"VR tour crashed halfway through. Wasted an hour trying to get it working again. Stick to traditional viewings! #TechFail",negative
+N9,"The AR sunlight tracking feature was completely wrong - bought a 'sunny' apartment that's actually in shadow most of the day #Misleading",negative
+N10,"VR tour didn't show any of the property's flaws - convenient how water damage isn't visible in virtual reality! #RealEstateProblems",negative
+M1,"VR property tours are interesting but still need improvement. Good for initial screening, but in-person visits are essential. #RealEstate",neutral
+M2,"AR furniture placement is helpful but not perfect. Sometimes accurate, sometimes off. Use with caution. #PropTech",neutral
+M3,"Virtual staging helps visualize possibilities, but remember it's just a digital representation. Always view property in person. #RealEstate",neutral
+M4,"VR tours work well for layout understanding but can't replicate the feel of a space. Good first step in house hunting. #PropertyTech",neutral
+M5,"AR property info overlay is convenient but double-check the data. Not always up to date. #RealEstate #Technology",neutral
+M6,"Using VR for initial property viewings. Saves time but still need in-person visits for final decisions. #RealEstateTips",neutral
+M7,"AR renovation previews are useful for basic visualization but consult professionals for accurate planning. #Renovation",neutral
+M8,"VR neighborhood tours give a general idea but can't replace actually walking around the area. Use as starting point. #PropertyHunting",neutral
+M9,"The AR measuring tool is handy for rough estimates but bring a tape measure for important measurements. #RealEstateTech",neutral
+M10,"VR property tours are becoming common in luxury real estate. Interesting trend but jury's still out on effectiveness. #PropTech",neutral
