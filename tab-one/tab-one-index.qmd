@@ -135,8 +135,9 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate.
 
-```{r, echo=FALSE, out.width="50%"}
-knitr::include_graphics("images/R.jpg")
-```
+![](R.jpg)
+
+
+# knitr::include_graphics("R.jpg")
 
 
