@@ -12,7 +12,7 @@ format:
 ## What is Immersive Technology?
 
 
-🕶️ Virtual Reality: Users get to interact through a simulated reality. Vision and hearing is stimulated. The goal is to immerse into a virtual world and prevent from seeing the real world. VR is about 75% virtual and 25% real.
+🕶️ Virtual Reality: Users get to interact through a simulated reality. Vision and hearing is simulated. The goal is to immerse into a virtual world and prevent from seeing the real world. VR is about 75% virtual and 25% real.
 
 📱 Augmented Reality: Amplifies real-world surroundings adding virtual features that the user may interact with. Augmented reality doesn’t try to immerse and block out the real world - it overlays graphics and animation on top of real-world environments. AR is about 25% virtual and 75% real.
 
@@ -79,24 +79,14 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 
 
-## Benefits for Real Estate Companies
+## Benefits for Companies and Customers  
+
+[Click to Watch](https://ai.invideo.io/watch/zcS92oG8XRk)
+
+![](R.jpg)
 
 
-1️⃣ Enhanced Property Visualization – Virtual tours and 3D models allow clients to explore properties remotely, saving time, effort, enhacing customer's faster decision making.
 
-2️⃣ Cost Savings on Staging – Virtual staging replaces physical staging, reducing expenses while showcasing properties attractively.
-
-3️⃣ Global Reach & Accessibility – Remote clients can view properties from anywhere, expanding the market for real estate firms.
-
-
-## Benefits for Customers
-
-
-1️⃣ Convenience & Time-Saving – Customers can explore multiple properties remotely through virtual tours, reducing the need for physical visits.
-
-2️⃣ Better Decision-Making – AR and VR provide a realistic sense of space, layout, and design, helping buyers make informed choices.
-
-3️⃣ Personalized Experience – Customers can customize interiors virtually, visualizing furniture placement and renovations before purchasing.
 
 ## Challenges and Barriers
 
@@ -131,11 +121,40 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 🔜 Future growth will make immersive tech even more accessible
 ---
 
+## References
+
+
+<style>
+.small-text {
+  font-size: 14px;
+}
+</style>
+
+<div class="small-text">
+
+Batat, W. (2024). Why is the traditional marketing mix dead? “Towards the experiential marketing mix” (7E), a strategic framework for business experience design in the phygital age. *Journal of Strategic Marketing, 32*(2), 101-113.  
+
+Gravatt, D. H. (2018). The impact of digital marketing decisions on market outcomes in residential real estate (Order No. 10980680) [Doctoral dissertation, University of South Florida] ProQuest Dissertations & Theses Global.  
+
+Ibentos. (n.d.). Personalization in virtual events: Tailoring experiences to boost engagement. *Ibentos*. Retrieved February 18, 2025, from [https://ibentos.com/blogs/personalization-in-virtual-events-tailoring-experiences-to-boost-engagement/](https://ibentos.com/blogs/personalization-in-virtual-events-tailoring-experiences-to-boost-engagement/)  
+
+Laterman, K. (2017). The new reality in real estate technology: Augmented. *The New York Times*, p.6.  
+
+Rosenthal, B., & Brito, E. P. (2017). How virtual brand community traces may increase fan engagement in brand pages. Business Horizons, 60(2), 375-384 
+https://doi.org/10.1016/j.bushor.2017.01.009
+
+Schmitt, B. H. (1999). Experiential marketing. Free Press.
+
+</div>
+
+
+
+
 ## Thank You
 
 💡Feel free to share your thoughts and ideas on how immersive technology might influence the future of real estate.
 
-![](R.jpg)
+![](Saudi.jpeg)
 
 
 

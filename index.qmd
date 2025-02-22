@@ -18,3 +18,20 @@ At Mare Estates, customer experience is at the heart of everything we do. By int
 Step into the future of real estate—where luxury meets innovation, and your dream home is just a virtual tour away.
 
 MARE ESTATES
+
+
+
+<h2 style="text-align: right;">Experience the Future of Real Estate – Watch Now!</h2>
+<p style="text-align: right;">
+  <a href="https://ai.invideo.io/watch/0T2bV2NFqZF" target="_blank">
+    Click here to watch the video
+  </a>
+</p>
+
+
+
+<p style="text-align: right;">
+  <a href="https://www.8thwall.com/alivenow/apartment-demo?fbclid=IwZXh0bgNhZW0CMTAAAR3CcdXQ0dkrZnMS6r-kxJw3DQGXDQZ1BhqygorczhQAKLz_OUKPDE0HxDo_aem_p5CeQJybRmlyLAvz_yTwEg" target="_blank">
+    Click here to experience the AR demo
+  </a>
+</p>
