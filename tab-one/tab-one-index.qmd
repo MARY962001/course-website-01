@@ -81,6 +81,7 @@ kable(vr_ar_table, format = "html", align = "l", caption = "Comparison of VR & A
 
 ## Benefits for Companies and Customers  
 
+{{< video https://ai.invideo.io/watch/zcS92oG8XRk >}}
 [Click to Watch](https://ai.invideo.io/watch/zcS92oG8XRk)
 
 ![](R.jpg)
